@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "860197178504",
+    "project_id": "mobil2-f418b",
+    "storage_bucket": "mobil2-f418b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:860197178504:android:68be16d102baa2871d233d",
+        "android_client_info": {
+          "package_name": "com.example.mobil2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCExIGbhNpDUF2APh1_93rfd_FNmBHq5KI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
